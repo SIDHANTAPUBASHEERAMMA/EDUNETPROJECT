@@ -44,7 +44,7 @@
                                 <img src='https://res.cloudinary.com/dx4b3h6c3/image/upload/v1687880462/bs-pc_okimoc.jpg' class='second-profile' />
                                 <div class='text-info-container'>
                                     <p class='text'>
-                                        My name is is an Sidhantapu Basheeramma,I'm a web development learner. I'm studying Bachelors of technology in Andhra Pradesh ,India .Currently I'm learning web development.
+                                        My name is is  Sidhantapu Basheeramma,I'm a web development learner. I'm studying Bachelors of technology in Andhra Pradesh ,India .Currently I'm learning web development.
                                         I'm doing my bachelor's degree on Artificial intellegence and data science.
                                     </p>
                                     <button class='dowload-button'>Dowload Resume</button>
@@ -58,7 +58,7 @@
                         <ul class='education-lists'>
                             <li class='list'>
                                 <i class="icon fas fa-graduation-cap"></i>
-                                <h1 class='education-type'>B.Teck</h1>
+                                <h1 class='education-type'>B.Tech</h1>
                                 <p class='other-info'>Dept: <span class='other-info-answer'>B.Tech</span></p>
                                 <p class='other-info'>Percentage: <span class='other-info-answer'>7.45</span></p>
                                 <p class='other-info'>Name of institute: <span class='other-info-answer'>KIEW</span></p>
@@ -162,7 +162,7 @@
                             </a>
 
                         </div>
-                        <p class='copy-right-para'>Copyright 2023 © Sidhantapu Basheeramma PSD Template. All Rights are Reserved.</p>
+                        <p class='copy-right-para'>Copyright 2023 © Sidhantapu Basheeramma . All Rights are Reserved.</p>
                     </div>
 
 
