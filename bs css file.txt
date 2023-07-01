@@ -1,0 +1,354 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #00001a;
+    min-height: 100vh;
+
+}
+
+.total-container {
+    width: 100%;
+}
+
+.navbar-class {
+    background-color: transparent;
+    width: 100%;
+
+}
+
+#navheading {
+    color: greenyellow;
+    font-size: 2.25rem;
+    font-weight: 600;
+    font-family: "ubuntu", sans-serif;
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.profile-name-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.fisrt-profile {
+    height: 200px;
+    width: 200px;
+}
+
+.name-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.span-heading {
+    font-size: 25px;
+}
+
+.about-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.about-heading {
+    text-decoration: underline;
+    text-decoration-color: green;
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+.profile-info-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-left: 50px;
+}
+
+.second-profile {
+    height: 200px;
+    width: 50%;
+}
+
+.text-info-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.dowload-button {
+    background-color: #27ae60;
+    color: white;
+    border-radius: 7px;
+    padding: 5px;
+    border: none;
+    width: 150px;
+}
+
+.education-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.education-heading {
+    text-decoration: underline;
+    text-decoration-color: green;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.education-lists {
+    list-style-type: none;
+    padding-left: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.list {
+    border-radius: 10px;
+    background-color: #283747;
+    padding: 10px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.icon {
+    color: #27ae60;
+    width: 200px;
+}
+
+.education-type {
+    color: #ff0000e3;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.other-info {
+    color: crimson;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.other-info-answer {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.skils-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.skills-lists {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.experience-heading {
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.skills-text {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.skill-list {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.certificates-container {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.carousel-container {
+    margin: 200px;
+}
+
+.contact-me-container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 20px;
+}
+
+.call-email-linkdin-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 0px;
+}
+
+.type-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.icon-container {
+    text-align: center;
+    margin-right: 60px;
+}
+
+.type-icon {
+    height: 20px;
+    width: 20px;
+
+}
+
+.type-heading {
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+.type-answer {
+    color: green;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.copy-rights-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.copy-rights-icons-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.copy-right-para {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.copy-right-icon {
+    height: 20px;
+    width: 20px;
+    color: white;
+}
+
+@media screen and (max-width:576px) {
+    .navbar-class {
+        background-color: white;
+    }
+
+    #navItem2 {
+        color: white;
+        font-family: "Roboto";
+    }
+
+    .profile-name-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .fisrt-profile {
+        height: 200px;
+        width: 400px;
+    }
+
+    .about-heading {
+        font-size: 30px;
+    }
+
+    .profile-info-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-left: 0px;
+    }
+
+    .education-lists {
+        list-style-type: none;
+        padding-left: 0px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .list {
+        margin-top: 20px;
+        padding: 5px;
+        margin: 5px;
+    }
+
+    .education-type {
+        color: #ff0000e3;
+        font-family: "Roboto";
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .other-info {
+        color: crimson;
+        font-family: "Roboto";
+        font-weight: bold;
+        font-size: 18px;
+    }
+
+    .other-info-answer {
+        color: white;
+        font-family: "Roboto";
+        font-weight: bold;
+        font-size: 14px;
+    }
+
+    .call-email-linkdin-container {
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+    }
+
+    .icon-container {
+        text-align: left;
+        margin-right: 0px;
+    }
+
+    .carousel-container {
+        margin: 20px;
+    }
+}
